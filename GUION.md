@@ -55,6 +55,8 @@ dejando en claro que el uso de ciertas herramientas no las excluye de las demás
     * Al final se hará una demostración de cómo hacer el tracking del recorrido de la Buyer Persona
 
 # El Marketing de Influencers #
+1. ¿Cómo detectar un influencer?
+    * Uso de Audiense para detección de Influencers
 
 # Casos de éxito #
 1. Caso de Virgin - Richard Branson
