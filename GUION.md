@@ -48,12 +48,19 @@ dejando en claro que el uso de ciertas herramientas no las excluye de las demás
 
         Atención al cliente, Contenido inteligente, Conversaciones
 
-3. ¿Qué es un Buyer Persona?
+3. ¿Qué es una Buyer Persona?
+    * ¿Para qué nos sirve la definición de una Buyer Persona?
+    * Ejemplo de Buyer Persona
 4. ¿Qué es el Buyer Journey?
+    * Al final se hará una demostración de cómo hacer el tracking del recorrido de la Buyer Persona
 
 # El Marketing de Influencers #
 
 # Casos de éxito #
+1. Caso de Virgin - Richard Branson
+2. Caso de Buffer
+3. Caso GymShark
+4. Caso Totis
 
 # La Auditoría de Marketing Digital #
 
