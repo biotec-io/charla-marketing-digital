@@ -16,7 +16,7 @@ Empezar con una dato interesante e iniciar la presentación con fuerza.
 ## ¿Qué van a ganar las personas que están en la presentación ##
 1. Hablamos sobre nosotros (Añadimos una diapositiva).
     * ¿Cuál es el beneficio exacto que va a obtener de nosotros?
-        * Podemos empezar con la frase *En los próximos minutos vas a descubrir...*
+        * Podemos empezar con la frase: *En los próximos minutos vas a descubrir...*
 2. El compromiso que tenemos con nuestros clientes
 
 # La metodología Inbound Marketing #
@@ -47,3 +47,14 @@ dejando en claro que el uso de ciertas herramientas no las excluye de las demás
     * Deleitar (De clientes a promotores):
 
         Atención al cliente, Contenido inteligente, Conversaciones
+
+3. ¿Qué es un Buyer Persona?
+4. ¿Qué es el Buyer Journey?
+
+# El Marketing de Influencers #
+
+# Casos de éxito #
+
+# La Auditoría de Marketing Digital #
+
+# Demostración del Buyer Journey y el uso del Inbound Marketing #
