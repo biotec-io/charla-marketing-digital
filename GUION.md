@@ -28,11 +28,22 @@ En los últimos años, los mismos cambios en la conducta de compra que impulsaro
 Gracias a esta metodología, obtienes beneficios inigualables para expandir tu negocio y atraer clientes que compren tus productos, generen vínculos a largo plazo contigo, recomienden tu empresa a sus amigos y les cuenten a todos que son fans de tu marca.
 
 2. Las fases del Inbound Marketing
-    * Atraer (De desconocidos a visitantes)
+
+Se hará un resumen de cada una de las etapas junto con las herramientas que se utilizan para cada una de estas,
+dejando en claro que el uso de ciertas herramientas no las excluye de las demás etapas.
+
+    * Atraer (De desconocidos a visitantes):
+
         Publicación en blogs, Estrategia de contenido, Redes sociales
-    * Convertir (De visitantes a oportunidades de venta)
+
+    * Convertir (De visitantes a oportunidades de venta):
+
         Formularios, Reunionies, Mensajes, CRM
-    * Cerrar (De oportunidades de venta a clientes)
+
+    * Cerrar (De oportunidades de venta a clientes):
+
         Gestión del pipeline, Nutrición de oportunidades de venta, correo electrónico, Calificación predictiva de oportunidades de venta
-    * Deleitar (De clientes a promotores)
+
+    * Deleitar (De clientes a promotores):
+
         Atención al cliente, Contenido inteligente, Conversaciones
